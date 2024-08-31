@@ -9,7 +9,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("http://localhost:3000"),
+  metadataBase: new URL("https://ka-pearl.vercel.app/"),
   title: "sleepytales",
   description: "A brief description of your app.",
   category: "website",
