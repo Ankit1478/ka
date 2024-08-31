@@ -1,0 +1,34 @@
+{
+    "theme_color": "#8936FF",
+    "background_color": "#2EC6FE",
+    "icons": [
+      {
+        "purpose": "maskable",
+        "sizes": "512x512",
+        "src": "/icons/icon512_maskable.png",
+        "type": "image/png"
+      },
+      {
+        "purpose": "any",
+        "sizes": "512x512",
+        "src": "/icons/icon512_rounded.png",
+        "type": "image/png"
+      }
+    ],
+    "orientation": "any",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "en-GB",
+    "name": "sleepytales",  
+    "short_name": "tales",  
+    "description": "A brief description of your app.",  
+    "id": "sleepytales1478562465301657079521234abcd",
+    "categories": [
+      "entertainment",
+      "education",
+      "lifestyle"
+    ],
+    "prefer_related_applications": false,
+    "iarc_rating_id": "13"
+  }
+  
