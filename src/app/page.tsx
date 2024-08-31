@@ -31,7 +31,7 @@ export default function Home() {
     setOutput(null);
 
     try {
-      const response = await fetch('http://localhost:5001/convert', {
+      const response = await fetch('https://practisee.onrender.com/convert', {
         method: 'POST',
         body: formData
       });
